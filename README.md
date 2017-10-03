@@ -1,1 +1,1 @@
-Octave Code for machine learning assigments
+Octave Code for machine learning assignments
